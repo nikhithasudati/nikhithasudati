@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">&lt;Hello World /&gt;, I'm Nikhitha Sudati</h1>
+<h1 align="center">&lt;Hello World 👋 /&gt;, I'm Nikhitha Sudati</h1>
 
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Python, MERN stack, Docker, Kubernetes, AWS**
 
 - 📫 How to reach me **nikhithasudati78@gmail.com**
-- - 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Love to play and travel.
 
 <h3 align="left">Connect with me:</h3>
