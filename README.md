@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center"> "<Hello World />", I'm Nikhitha Sudati</h1>
+<h1 align="center">&lt;Hello World /&gt;, I'm Nikhitha Sudati</h1>
+
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/nikhithasudati/Portfolio)
